@@ -30,10 +30,10 @@ Requires [Bun](https://bun.sh). This repository contains the complete plain Java
 
 ```sh
 bun install --frozen-lockfile --ignore-scripts
-bun run bundle
+bun run build
 ```
 
-The build writes `main.js`, `styles.css` and `manifest.json` to `dist/`.
+The build writes `main.js` and `styles.css` next to `manifest.json`.
 
 ## License
 

@@ -1,7 +1,7 @@
 {
   "id": "svgdiagram",
   "name": "SVG Diagram",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.5.7",
   "description": "Make diagrams with free local makers, or describe an idea for optional AI generation, and embed them in notes as SVG files.",
   "author": "Tony Zedginidze",
